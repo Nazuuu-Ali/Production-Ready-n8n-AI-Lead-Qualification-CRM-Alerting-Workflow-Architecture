@@ -1,0 +1,2 @@
+# Production-Ready-n8n-AI-Lead-Qualification-CRM-Alerting-Workflow-Architecture
+Production-ready n8n workflow for real-time lead qualification &amp; instant CRM alerting. Integrates Groq AI (Llama 3) for lead scoring, Supabase PostgreSQL with dual-branch upsert logic for zero-collision database sync, and Meta WhatsApp Cloud API for sub-5s sales team notifications. Features custom JS nodes for resilient data normalization.
